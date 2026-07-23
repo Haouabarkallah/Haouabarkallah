@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%2C%20I'm%20Haoua%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Dev%20·%20AI%20·%20Data%20Science%20·%20IoT&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+ICT+University;Learning+Full+Stack+Web+Development;Exploring+AI+%2B+Data+Science+%2B+IoT;Building+in+public%2C+one+commit+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+The+ICT+University;Learning+Full+Stack+Web+Development;Exploring+AI+%2B+Data+Science+%2B+IoT;Building+in+public%2C+one+commit+at+a+time." />
 </a>
 
 <br/><br/>
