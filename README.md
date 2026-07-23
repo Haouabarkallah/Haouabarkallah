@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%2C%20I'm%20Haoua%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Dev%20·%20AI%20·%20Data%20Science%20·%20IoT&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%2C%20I'm%20Haoua%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Dev%20·%20AI%20·%20Data%20Science%20·%20IoT&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+ICT+University;Learning+Full+Stack+Web+Development;Exploring+AI+%2B+Data+Science+%2B+IoT;Building+in+public%2C+one+commit+at+a+time." />
@@ -54,7 +54,7 @@ const haoua = {
 
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Haouabarkallah&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Haouabarkallah&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF"/>
+<img height="160" src="https://streak-stats.demolab.com/?user=Haouabarkallah&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF"/>
 </div>
 
 <br/>
@@ -74,7 +74,7 @@ const haoua = {
 
 <br/><br/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 
 <sub>Thanks for visiting — always open to connect and learn together 🚀</sub>
 
